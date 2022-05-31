@@ -26,4 +26,6 @@
 
 ![Krynlix's GitHub stats](https://github-readme-stats.vercel.app/api?username=eVorterx&show_icons=true&theme=cobalt&hide_border=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eVorterx&layout=compact&theme=cobalt&hide_border=true&langs_count=8)
+
 
