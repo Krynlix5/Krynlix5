@@ -14,8 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-  ![My Discord](https://discord-readme-badge.vercel.app/api?id=602091699442941952)
-  
 <a href="https://twitter.com/krynlix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krynlix" height="30" width="40" /></a>
 <a href="https://discord.gg/Krynlix#6658" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Krynlix#6658" height="30" width="40" /></a>
 </p>
