@@ -1,4 +1,11 @@
+<h2 align="center">Hi 👋! My name is Krynlix and I'm a web developer and enthusiast from Spain</h2>
 
+###
+###
+
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/99536041?v=4" />
+
+###
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/v4WPndKRKm) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/appa_5) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NeyluxTeam) 
 
