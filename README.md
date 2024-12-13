@@ -3,7 +3,6 @@
 ###
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/99536041?v=4" />
 
 ###
 ## 🌐 Socials:
