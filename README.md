@@ -3,12 +3,6 @@
 ###
 ###
 
-
-###
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/v4WPndKRKm) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/appa_5) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NeyluxTeam)
-[![Oasis Studio](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/unWH6YNGnQ)
-
 # 💻 Technologies I use:
 [![My Skills](https://skillicons.dev/icons?i=arduino,astro,bash,bun,cloudflare,codepen,css,devto,discord,bots,discordjs,django,git,github,html,js,md,mongodb,nodejs,notion,npm,obsidian,py,raspberrypi,typescript,unreal,vscode,verse&perline=16)](https://skillicons.dev)
 # 📊 GitHub Stats:
