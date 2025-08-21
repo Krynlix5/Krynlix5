@@ -4,7 +4,7 @@
 ###
 
 # 💻 Technologies I use:
-[![My Skills](https://skillicons.dev/icons?i=arduino,astro,bash,bun,cloudflare,codepen,css,devto,discord,bots,discordjs,django,git,github,html,js,md,mongodb,nodejs,notion,npm,obsidian,py,raspberrypi,typescript,unreal,vscode,verse&perline=16)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,astro,bash,bun,cloudflare,css,devto,discord,bots,discordjs,django,git,github,html,js,md,mongodb,nodejs,notion,npm,obsidian,py,raspberrypi,typescript,unreal,vscode,verse&perline=16)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Krynlix5&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Krynlix5&theme=tokyonight&hide_border=true)<br/>
